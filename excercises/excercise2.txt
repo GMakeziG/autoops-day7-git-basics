@@ -1,0 +1,9 @@
+Exercise 2 — Undo and History
+
+1. Make a small change to script.sh but do NOT commit yet.
+2. Run `git status` and note the output.
+3. Use `git restore script.sh` to discard the change.
+4. Make another change and commit it.
+5. Use `git reset --soft HEAD~1` and see what happened.
+6. Run `git log --oneline` after each step and note the differences.
+

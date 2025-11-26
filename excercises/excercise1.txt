@@ -1,0 +1,7 @@
+Exercise 1 — First Commits
+
+1. Initialize a Git repository in the repo/ folder.
+2. Stage all files and create your first commit.
+3. Modify script.sh and notes.md.
+4. Create at least two more commits with clear messages.
+
